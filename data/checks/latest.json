@@ -1,0 +1,84 @@
+{
+ "generated": "2026-11-24T13:08:19Z",
+ "latest": {
+  "pravo-buryatia|russia/buryatia/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "checked": 1766,
+    "current": 1747,
+    "gone": 0,
+    "held": 1747,
+    "newest_in_repo": "2026-10-13",
+    "pending": 19,
+    "repo": 1747,
+    "source_in_scope": 1766
+   },
+   "check_id": "ru-pravo-buryatia-20261124T130522Z",
+   "commits": null,
+   "corpus": "russia/buryatia/acts",
+   "error": "CorpusError: 95-watch-20261124-002.json: law 'portal-2015-03-19' is 'Официальный интернет-портал правовой информации, 2015-03-19' here but 'ÐžÑ„Ð¸Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¿Ð¾Ñ€Ñ‚Ð°Ð» Ð¿Ñ€Ð°Ð²Ð¾Ð²Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸, 2015-03-19' elsewhere",
+   "finished": "2026-11-24T13:08:19Z",
+   "flags": [],
+   "gap": 19,
+   "note": "publication.pravo.gov.ru, block region03: 1766 law-type documents listed (every page read); 1747 held here; 19 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "failed",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 11,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "0300202611170006",
+     "0300202611240031",
+     "0300202611240032",
+     "0300202611240033",
+     "0300202611240034",
+     "0300202611240035",
+     "0300202611240036",
+     "0300202611240037",
+     "0300202611240038",
+     "0300202611240039",
+     "0300202611240040",
+     "0300202611240041",
+     "0300202611240042",
+     "0300202611240043",
+     "0300202611240044",
+     "0300202611240045",
+     "0300202611240046",
+     "0300202611240047",
+     "0300202611240048"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1766 law-type documents in block region03; newest published 2026-11-24",
+   "source": "pravo-buryatia",
+   "started": "2026-11-24T13:05:22Z",
+   "unexplained": 0,
+   "update": {
+    "parts": [
+     "95-watch-20261124-001.json",
+     "95-watch-20261124-002.json",
+     "95-watch-20261124-003.json",
+     "95-watch-20261124-004.json",
+     "95-watch-20261124-005.json",
+     "95-watch-20261124-006.json",
+     "95-watch-20261124-007.json",
+     "95-watch-20261124-008.json",
+     "95-watch-20261124-009.json",
+     "95-watch-20261124-010.json",
+     "95-watch-20261124-011.json",
+     "95-watch-20261124-012.json",
+     "95-watch-20261124-013.json"
+    ]
+   },
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}
