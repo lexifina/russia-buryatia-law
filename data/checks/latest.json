@@ -1,9 +1,16 @@
 {
- "generated": "2026-11-24T13:08:19Z",
+ "generated": "2026-11-25T06:58:22Z",
  "latest": {
   "pravo-buryatia|russia/buryatia/acts": {
    "attempt": 1,
-   "audit": null,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
    "census": {
     "checked": 1766,
     "current": 1747,
@@ -14,21 +21,45 @@
     "repo": 1747,
     "source_in_scope": 1766
    },
-   "check_id": "ru-pravo-buryatia-20261124T130522Z",
-   "commits": null,
+   "check_id": "ru-pravo-buryatia-20261125T051803Z",
+   "commits": {
+    "count": 3,
+    "from": "37ad7c5b3dc42d856ea7de56cc2cd81840a20524",
+    "to": "b214ced716b510cceb1d67c2c08c456f672afe86"
+   },
    "corpus": "russia/buryatia/acts",
-   "error": "CorpusError: 95-watch-20261124-002.json: law 'portal-2015-03-19' is 'Официальный интернет-портал правовой информации, 2015-03-19' here but 'ÐžÑ„Ð¸Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¿Ð¾Ñ€Ñ‚Ð°Ð» Ð¿Ñ€Ð°Ð²Ð¾Ð²Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸, 2015-03-19' elsewhere",
-   "finished": "2026-11-24T13:08:19Z",
+   "error": null,
+   "finished": "2026-11-25T05:19:09Z",
    "flags": [],
-   "gap": 19,
+   "gap": 0,
    "note": "publication.pravo.gov.ru, block region03: 1766 law-type documents listed (every page read); 1747 held here; 19 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "failed",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "0300202611170006",
+     "0300202611240031",
+     "0300202611240032",
+     "0300202611240033",
+     "0300202611240034",
+     "0300202611240035",
+     "0300202611240036",
+     "0300202611240037",
+     "0300202611240038",
+     "0300202611240039",
+     "0300202611240040",
+     "0300202611240041",
+     "0300202611240042",
+     "0300202611240043",
+     "0300202611240044",
+     "0300202611240045",
+     "0300202611240046",
+     "0300202611240047",
+     "0300202611240048"
+    ],
     "changed": [],
     "removed": []
    },
-   "requests": 11,
+   "requests": 12,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -58,26 +89,44 @@
    },
    "snapshot": "1766 law-type documents in block region03; newest published 2026-11-24",
    "source": "pravo-buryatia",
-   "started": "2026-11-24T13:05:22Z",
+   "started": "2026-11-25T05:18:03Z",
    "unexplained": 0,
    "update": {
+    "append": {
+     "commits": 2,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "labels_kept_as_published": "178 law labels on this repository were built with a broken text encoding; kept as published (correcting them needs a rebuild decision)",
     "parts": [
-     "95-watch-20261124-001.json",
-     "95-watch-20261124-002.json",
-     "95-watch-20261124-003.json",
-     "95-watch-20261124-004.json",
-     "95-watch-20261124-005.json",
-     "95-watch-20261124-006.json",
-     "95-watch-20261124-007.json",
-     "95-watch-20261124-008.json",
-     "95-watch-20261124-009.json",
-     "95-watch-20261124-010.json",
-     "95-watch-20261124-011.json",
-     "95-watch-20261124-012.json",
-     "95-watch-20261124-013.json"
+     "95-watch-20261125-001.json",
+     "95-watch-20261125-002.json",
+     "95-watch-20261125-003.json",
+     "95-watch-20261125-004.json",
+     "95-watch-20261125-005.json",
+     "95-watch-20261125-006.json",
+     "95-watch-20261125-007.json",
+     "95-watch-20261125-008.json",
+     "95-watch-20261125-009.json",
+     "95-watch-20261125-010.json",
+     "95-watch-20261125-011.json",
+     "95-watch-20261125-012.json",
+     "95-watch-20261125-013.json"
     ]
    },
-   "verify": null
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 193,
+    "versions_differ": 0
+   }
   }
  },
  "schema": "lexifina-check/1"
