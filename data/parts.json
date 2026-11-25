@@ -1,0 +1,161 @@
+{
+ "parts": {
+  "30-zakony-2014.json": {
+   "acts": [
+    "zakony-2014"
+   ],
+   "sha256": "079426ca2d54dfc8c5c30d1a6775463a42553fc52e8084ec5afaafd65e073616"
+  },
+  "30-zakony-2015.json": {
+   "acts": [
+    "zakony-2015"
+   ],
+   "sha256": "15cf28a49ee36b59d537e31f047da60c938297afc94bb72c10fff43e16a5a235"
+  },
+  "30-zakony-2016.json": {
+   "acts": [
+    "zakony-2016"
+   ],
+   "sha256": "99e9351e4431acdf8a0bfd93fdb114aa53ff59e28b27b4bf20e088ec4f8db300"
+  },
+  "30-zakony-2017.json": {
+   "acts": [
+    "zakony-2017"
+   ],
+   "sha256": "f60ee2b9b23377612f7fbf7c715b1776647924a5be10327dfa14b8976624d9a7"
+  },
+  "30-zakony-2018.json": {
+   "acts": [
+    "zakony-2018"
+   ],
+   "sha256": "1709125c9df3d9b3330b79db48d0cb7f3aad9ce5373914ba06582b7516bd0c98"
+  },
+  "30-zakony-2019.json": {
+   "acts": [
+    "zakony-2019"
+   ],
+   "sha256": "7929278621502e3906f3263127f6b59321e574c3fea5cedbc924f0338b1e72b9"
+  },
+  "30-zakony-2020.json": {
+   "acts": [
+    "zakony-2020"
+   ],
+   "sha256": "54b10520a10bff2979c262a3ca758e3291e2b22188f5adcbd8cf0cd3a9cb4778"
+  },
+  "30-zakony-2021.json": {
+   "acts": [
+    "zakony-2021"
+   ],
+   "sha256": "fcbbcab676b90666c967a2f2281824a4f390c9e3eb2b6184ba915e04bd8a0eb0"
+  },
+  "30-zakony-2022.json": {
+   "acts": [
+    "zakony-2022"
+   ],
+   "sha256": "a4bfc8bf2a7b9b7ade88948b5c22d24111f130c7564af286884ecb70d1a50520"
+  },
+  "30-zakony-2023.json": {
+   "acts": [
+    "zakony-2023"
+   ],
+   "sha256": "fcf9f1289798b8d6ad03fe8e8b4a6ffa690c0b5b7728f02a77d37acf107e0074"
+  },
+  "30-zakony-2024.json": {
+   "acts": [
+    "zakony-2024"
+   ],
+   "sha256": "c18069a90e571abbe1a778f48cb92fb59f136a9fa3e84f7d42b69424a79c4679"
+  },
+  "30-zakony-2025.json": {
+   "acts": [
+    "zakony-2025"
+   ],
+   "sha256": "58cbf609f21b6cfdf41ffb19267ac0ad94ee2bb7475808ba62ce7ad973708b54"
+  },
+  "30-zakony-2026.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "0412f78aa133691404469e6c62a09266e88a78c9cbe73accb6289e327cef07b6"
+  },
+  "95-watch-20261125-001.json": {
+   "acts": [
+    "zakony-2014"
+   ],
+   "sha256": "4902d97124e30318523674f1ac76e26c30ead516d15deb31e7aa91eb3e8ba1e3"
+  },
+  "95-watch-20261125-002.json": {
+   "acts": [
+    "zakony-2015"
+   ],
+   "sha256": "d789965d6b9836dae077cf284f5bb091ad8fb9ccb10a13bd5c4b458e003c70cc"
+  },
+  "95-watch-20261125-003.json": {
+   "acts": [
+    "zakony-2016"
+   ],
+   "sha256": "2d46e90f45b7bb957ab06d959f447fbd636edd78312f668b9efc9f894a955d48"
+  },
+  "95-watch-20261125-004.json": {
+   "acts": [
+    "zakony-2017"
+   ],
+   "sha256": "861a09a56520b2554a84a379cb2b3741ea34cd8f5dc1be540bde8d3fa801fa0d"
+  },
+  "95-watch-20261125-005.json": {
+   "acts": [
+    "zakony-2018"
+   ],
+   "sha256": "e88871b94b6a3c3cba62616620a35434344ef66b6d29b6861dd002a11165bb6a"
+  },
+  "95-watch-20261125-006.json": {
+   "acts": [
+    "zakony-2019"
+   ],
+   "sha256": "462db5898d1aa110a4a5e723b2ac8012d9caadf9a6a69d091118b8eacdfaa421"
+  },
+  "95-watch-20261125-007.json": {
+   "acts": [
+    "zakony-2020"
+   ],
+   "sha256": "54a5a5012593656d94c7edc931cd6ddaf339444c8cf5ee180517e960f15351e6"
+  },
+  "95-watch-20261125-008.json": {
+   "acts": [
+    "zakony-2021"
+   ],
+   "sha256": "42d7264eb341b29b85b62ae40d4a9d6b4e32a794861cea71e13e2e0248347de1"
+  },
+  "95-watch-20261125-009.json": {
+   "acts": [
+    "zakony-2022"
+   ],
+   "sha256": "f1e56743e19417de71e2634696d71bea07a5e2a9c7763fcb9581ceff249095e0"
+  },
+  "95-watch-20261125-010.json": {
+   "acts": [
+    "zakony-2023"
+   ],
+   "sha256": "7e61c251b5a517621f27232bcc46bde4a1a1da40723ef5e708b820867e49c26e"
+  },
+  "95-watch-20261125-011.json": {
+   "acts": [
+    "zakony-2024"
+   ],
+   "sha256": "423a7b2fa9b0a51c077ebfca5a0fdb329cfa7caf7f82229992a73e0e46c5e991"
+  },
+  "95-watch-20261125-012.json": {
+   "acts": [
+    "zakony-2025"
+   ],
+   "sha256": "5dccec50122590a370d873c6a2c35f319116cafd66e8579e7ef15961a270f896"
+  },
+  "95-watch-20261125-013.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "84b3255bccf87e75009ba18c45fc6255e3434119450c7b0d4a2dc9a9caa56ebb"
+  }
+ },
+ "schema": 1
+}
