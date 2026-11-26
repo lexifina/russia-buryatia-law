@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:58:22Z",
+ "generated": "2026-11-26T06:15:16Z",
  "latest": {
   "pravo-buryatia|russia/buryatia/acts": {
    "attempt": 1,
@@ -13,49 +13,25 @@
    },
    "census": {
     "checked": 1766,
-    "current": 1747,
+    "current": 1766,
     "gone": 0,
-    "held": 1747,
-    "newest_in_repo": "2026-10-13",
-    "pending": 19,
-    "repo": 1747,
+    "held": 1766,
+    "newest_in_repo": "2026-11-24",
+    "pending": 0,
+    "repo": 1766,
     "source_in_scope": 1766
    },
-   "check_id": "ru-pravo-buryatia-20261125T051803Z",
-   "commits": {
-    "count": 3,
-    "from": "37ad7c5b3dc42d856ea7de56cc2cd81840a20524",
-    "to": "b214ced716b510cceb1d67c2c08c456f672afe86"
-   },
+   "check_id": "ru-pravo-buryatia-20261126T052028Z",
+   "commits": null,
    "corpus": "russia/buryatia/acts",
    "error": null,
-   "finished": "2026-11-25T05:19:09Z",
+   "finished": "2026-11-26T05:21:09Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region03: 1766 law-type documents listed (every page read); 1747 held here; 19 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region03: 1766 law-type documents listed (every page read); 1766 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "0300202611170006",
-     "0300202611240031",
-     "0300202611240032",
-     "0300202611240033",
-     "0300202611240034",
-     "0300202611240035",
-     "0300202611240036",
-     "0300202611240037",
-     "0300202611240038",
-     "0300202611240039",
-     "0300202611240040",
-     "0300202611240041",
-     "0300202611240042",
-     "0300202611240043",
-     "0300202611240044",
-     "0300202611240045",
-     "0300202611240046",
-     "0300202611240047",
-     "0300202611240048"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -63,59 +39,17 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "0300202611170006",
-     "0300202611240031",
-     "0300202611240032",
-     "0300202611240033",
-     "0300202611240034",
-     "0300202611240035",
-     "0300202611240036",
-     "0300202611240037",
-     "0300202611240038",
-     "0300202611240039",
-     "0300202611240040",
-     "0300202611240041",
-     "0300202611240042",
-     "0300202611240043",
-     "0300202611240044",
-     "0300202611240045",
-     "0300202611240046",
-     "0300202611240047",
-     "0300202611240048"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1766 law-type documents in block region03; newest published 2026-11-24",
    "source": "pravo-buryatia",
-   "started": "2026-11-25T05:18:03Z",
+   "started": "2026-11-26T05:20:28Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
     "labels_kept_as_published": "178 law labels on this repository were built with a broken text encoding; kept as published (correcting them needs a rebuild decision)",
-    "parts": [
-     "95-watch-20261125-001.json",
-     "95-watch-20261125-002.json",
-     "95-watch-20261125-003.json",
-     "95-watch-20261125-004.json",
-     "95-watch-20261125-005.json",
-     "95-watch-20261125-006.json",
-     "95-watch-20261125-007.json",
-     "95-watch-20261125-008.json",
-     "95-watch-20261125-009.json",
-     "95-watch-20261125-010.json",
-     "95-watch-20261125-011.json",
-     "95-watch-20261125-012.json",
-     "95-watch-20261125-013.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
