@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Republic of Buryatia: Official Internet Portal of Legal Information (region03) · `russia/buryatia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 05:21 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 05:17 UTC**.
 - Acts held here: 1 766; current at the source: 1 766; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 

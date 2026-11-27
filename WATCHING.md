@@ -6,6 +6,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Republic of Buryatia: Official Internet Portal of Legal Information (region03)](http://publication.pravo.gov.ru/documents/block/region03) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-26 05:20 UTC | watched |
+| [Republic of Buryatia: Official Internet Portal of Legal Information (region03)](http://publication.pravo.gov.ru/documents/block/region03) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-27 05:16 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
