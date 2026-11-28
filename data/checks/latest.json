@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:07:57Z",
+ "generated": "2026-11-28T06:22:17Z",
  "latest": {
   "pravo-buryatia|russia/buryatia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1766,
     "source_in_scope": 1766
    },
-   "check_id": "ru-pravo-buryatia-20261127T051645Z",
+   "check_id": "ru-pravo-buryatia-20261128T052459Z",
    "commits": null,
    "corpus": "russia/buryatia/acts",
    "error": null,
-   "finished": "2026-11-27T05:17:28Z",
+   "finished": "2026-11-28T05:25:45Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region03: 1766 law-type documents listed (every page read); 1766 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1766 law-type documents in block region03; newest published 2026-11-24",
    "source": "pravo-buryatia",
-   "started": "2026-11-27T05:16:45Z",
+   "started": "2026-11-28T05:24:59Z",
    "unexplained": 0,
    "update": {
     "labels_kept_as_published": "178 law labels on this repository were built with a broken text encoding; kept as published (correcting them needs a rebuild decision)",
